@@ -1,0 +1,6 @@
+git+https://github.com/pathpy/pathpyG.git
+ifcopenshell
+numpy
+torch
+torch_geometric
+tqdm
